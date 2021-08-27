@@ -1,0 +1,11 @@
+{
+  "name": "@typedarray/chrome",
+  "version": "1.0.1",
+  "main": "dist/index.js",
+  "author": "lomocc",
+  "license": "MIT",
+  "devDependencies": {
+    "chrome-launcher": "^0.14.0"
+  },
+  "bin": "dist/index.js"
+}
